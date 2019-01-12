@@ -312,8 +312,8 @@
             </div>
             <div class="text">
                 <h1>Привет, Мир!</h1>
-                СПАСИБО<br/>
-                ПОЖАЛУЙСТА
+                СПАСИБО? go go go<br/>
+                ПОЖАЛУЙСТА? go go go
             </div>
         </div>
     </main>
